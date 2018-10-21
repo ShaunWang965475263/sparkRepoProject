@@ -2,7 +2,7 @@
 
 The pySpark codes in the above links to the following data, you will need to download them yourself from https://data.sfgov.org<br>
 
-Here is the list of the .py file - the data source<br>
+Here is the list of the .py file - the data source:<br><br>
 businessPerZipCodeInSanFrancisco.py: <br>
 https://data.sfgov.org/Economy-and-Community/Registered-Business-Locations-San-Francisco/g8m3-pdis
 
