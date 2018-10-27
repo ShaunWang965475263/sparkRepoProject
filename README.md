@@ -18,4 +18,7 @@ https://data.sfgov.org/Economy-and-Community/Schools/tpp3-epx2 and <br>
 https://data.sfgov.org/Economy-and-Community/Registered-Business-Locations-San-Francisco/g8m3-pdis`
 
 sparkSQL.py<br>
-Using FakeFriends.csv The data is not mine, but i will be using this as a base model to analyze some open data from San Francisco.
+Using FakeFriends.csv The data is not mine, but i will be using this as a base model to analyze some open data from San Francisco. <br>
+
+sparkSQL_subquery<br>
+using u.data and u.item two subdatasets and with df.join(df1, how, on='key') for  left join. The spark dataframe doesnt work well with datetime, so recommend now to change timestamp with pd.to_datetime().<br>
