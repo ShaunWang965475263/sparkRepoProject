@@ -25,4 +25,5 @@ using u.data and u.item two subdatasets and with df.join(df1, how, on='key') for
 
 airtraffic_opensf.py <br>
 airtraffic_opensf_sql_version_included.py <br>
+airtraffic_opensf_sql_version_Pandas_included.py<br>
 https://data.sfgov.org/Transportation/Air-Traffic-Passenger-Statistics/rkru-6vcg
