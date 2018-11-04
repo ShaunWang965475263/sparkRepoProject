@@ -22,3 +22,6 @@ Using FakeFriends.csv The data is not mine, but i will be using this as a base m
 
 sparkSQL_subquery<br>
 using u.data and u.item two subdatasets and with df.join(df1, how, on='key') for  left join. The spark dataframe doesnt work well with datetime, so recommend now to change timestamp with pd.to_datetime().<br>
+
+airtraffic_opensf.py
+https://data.sfgov.org/Transportation/Air-Traffic-Passenger-Statistics/rkru-6vcg
