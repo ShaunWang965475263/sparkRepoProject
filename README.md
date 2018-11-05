@@ -27,3 +27,6 @@ airtraffic_opensf.py <br>
 airtraffic_opensf_sql_version_included.py <br>
 airtraffic_opensf_sql_version_Pandas_included.py<br>
 https://data.sfgov.org/Transportation/Air-Traffic-Passenger-Statistics/rkru-6vcg
+
+Air_traffic_landings_stats.py<br>
+https://data.sfgov.org/Transportation/Air-Traffic-Landings-Statistics/fpux-q53t
