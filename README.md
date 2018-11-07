@@ -30,3 +30,6 @@ https://data.sfgov.org/Transportation/Air-Traffic-Passenger-Statistics/rkru-6vcg
 
 Air_traffic_landings_stats.py<br>
 https://data.sfgov.org/Transportation/Air-Traffic-Landings-Statistics/fpux-q53t
+
+SparkStreamingTwitter.scala <br>
+Need Aouth from twitter, set up developer account first then use Utilities.scala and SparkStreaming Twitter.scala together to save twits.
