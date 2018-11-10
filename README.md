@@ -33,3 +33,5 @@ https://data.sfgov.org/Transportation/Air-Traffic-Landings-Statistics/fpux-q53t
 
 SparkStreamingTwitter.scala <br>
 Need Aouth from twitter, set up developer account first then use Utilities.scala and SparkStreaming Twitter.scala together to save twits.
+
+GlobeNdMail.py will be the last of the projects I will commit to this Repo. It includes my work for 15 hours which produced a spark pipeline to get desired output based on some parquet files in the gzip format. 
